@@ -4,7 +4,7 @@
 
 ## Hi there 👋  My name is Sara, welcome to my Github! 
 
-I am a full stack developer and photographer from Galicia, Spain. I love coding because of the ever-changing nature of the industry, and my background in the media industry and my passion for visual arts play a key role in the way I develop apps. 
+I am a full stack developer and photographer from Galicia, Spain. I love coding because of the ever-changing nature of the industry, and my background in media  and my passion for visual arts play a key role in the way I develop apps. 
 
 When I am not coding, some of my hobbies include hiking 🥾, cooking 🧑‍🍳 , illustration 🎨 , travelling✈️ and cats 🐈 
 
