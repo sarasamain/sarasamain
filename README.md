@@ -6,12 +6,15 @@
 
 ##### My name is Sara, welcome to my Github! ⚡ 
 
-- ✨ These are some of the technologies I like to work with: 
+- ✨ These are some of the technologies I like to work with:
+</br>
 <code><img height="40" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" alt="nodeJs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" alt="Postgres" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="40" alt="Redux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+
+</br>
 Some more info about myself:
 - 👩‍💻 I am currently working in the Instructor's Team at [Codeworks](https://codeworks.me/)
 - 🔭 My latest project is [Furniss](https://github.com/sarasamain/Furniss-FrontEnd), a marketplace for pre-loved furniture
