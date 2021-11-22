@@ -10,9 +10,8 @@ When I am not coding, some of my hobbies include hiking 🥾, cooking 🧑‍�
 
 
 ## What I'm doing now ⚡ 
-👩‍💻 I am currently working in the Instructor's Team at [Codeworks](https://codeworks.me/)<br />
-🔭 My latest project is [Furniss](https://github.com/sarasamain/Furniss-FrontEnd), a marketplace for second-hand and pre-loved furniture.<br />
-🌱 I am learning more about testing and graphic design.<br />
+👩‍💻 I am currently working at the Instructor's Team at [Codeworks](https://codeworks.me/)<br />
+🌱 I am learning more about UI/UX design .<br />
 
 
 ## How to reach me 📫
