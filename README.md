@@ -10,7 +10,7 @@ When I am not coding, some of my hobbies include hiking 🥾, cooking 🧑‍�
 
 
 ## What I'm doing now ⚡ 
-👩‍💻 I am currently working at the Instructor's Team at [Codeworks](https://codeworks.me/)<br />
+👩‍💻 I am currently working as Frontend Developer at [Frontastic](https://www.frontastic.cloud/)<br />
 🌱 I am learning more about UI/UX design .<br />
 
 
